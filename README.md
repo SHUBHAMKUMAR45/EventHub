@@ -2,7 +2,7 @@
 
 A modern, responsive React application for discovering and managing local community events. Built with React, TypeScript, and Tailwind CSS, featuring dark mode support and a beautiful, intuitive user interface.
 
-![Screenshot](images/screenshot.png)
+![Screenshot](src/img//Screenshot%202025-09-07%20161728.png)
 ## 🚀 Live Demo
 
 Experience EventHub in action! The application is fully responsive and optimized for all devices.
@@ -10,10 +10,10 @@ Experience EventHub in action! The application is fully responsive and optimized
 ### 📸 Screenshots
 
 **Light Mode - Event Discovery**
-![Light Mode](https://images.unsplash.com/photo-1559223607-b4d0555ae227?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
+![Screenshot](src/img//Screenshot%202025-09-07%20161748.png)
 
 **Dark Mode - Event Details**
-![Dark Mode](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
+![Dark Mode](src/img//Screenshot%202025-09-07%20161804.png)
 
 ## ✨ Features
 
@@ -76,7 +76,7 @@ Make sure you have the following installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SHUBHAMKUMAR45/EventHub.git
    cd eventhub
    ```
 
